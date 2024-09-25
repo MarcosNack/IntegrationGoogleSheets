@@ -1,0 +1,9 @@
+# Ignore all JSON files
+*.json
+
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore the answer key folder
+answer_key/
+
